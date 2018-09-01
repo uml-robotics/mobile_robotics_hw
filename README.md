@@ -9,6 +9,9 @@ Robotics II class taught by Dr. Holly Yanco.  These materials have been
 updated in the Fall semester of 2017 for ROS indigo, and tested on Ubuntu
 14.04LTS, 16.04.LTS, and CentOS 7.
 
+- PS0: Intro to ROS
+- PS1: Math
+- PS2: Math
 - PS3: Intro to Stage *(uml_race)*
 - PS4: Grid localization *(uml_hmm)*
 - PS5: Particle filter localization *(mcl_ws)*
