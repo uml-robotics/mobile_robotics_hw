@@ -17,3 +17,4 @@ updated in the Fall semester of 2017 for ROS indigo, and tested on Ubuntu
 - PS5: Particle filter localization *(mcl_ws)*
 - PS6: Mapping with known poses *(mcl_ws)* 
 - PS7: ROS navigation stack *(uml_nav not tested - somewhat in progress)*
+
